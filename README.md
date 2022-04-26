@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working as a PhD researcher at LS2N lab in Nantes. Working on making neural networks traing and run faster
+- 🔭 I’m currently working as a PhD researcher at LS2N lab in Nantes. Working on making neural networks train and run faster
 
